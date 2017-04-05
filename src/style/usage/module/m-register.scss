@@ -1,0 +1,46 @@
+html{
+	font-size:100px;
+}
+#mm{
+	heigth:.4rem;
+	width:100%;
+	#lg{
+		heigth:3.75rem;
+    	padding: 0 .31rem 0 .31rem;
+    	div{
+			heigth:.3rem;
+		    width: 100%;
+		    border: solid #c4c4c4;
+		    border-width: 0 1px 1px 1px;
+    		margin: 30px 0 0;
+    		input{
+				width:100%;
+				border: none;
+			    background-color: #f6f6f6;
+			    border-radius: 0px;
+			    box-shadow: none;
+			    outline: none;
+
+			}
+    	}
+    	#login{
+    		width: 1.63rem;
+		    background-color: #fe8233;
+		    color: #fff;
+		    border: none;
+		    border-radius: 36px;
+		    margin-top: 45px;
+		    padding: 8px 12px;
+		    font-size: 15px;
+		    outline: none;
+		    margin:0 auto;
+		    display:block;
+    	}		
+	}
+	#info{
+
+		button{
+
+		}
+	}
+}

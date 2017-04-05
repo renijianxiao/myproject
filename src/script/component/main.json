@@ -1,0 +1,147 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "id": 3601,
+                "name": "金刚：骷髅岛",
+                "cover": {
+                    "origin": "https://pic.maizuo.com/usr/100003601/b77973ee3a12e6a1010509ece2f94743.jpg"
+                },
+                "poster": {
+                    "origin": "https://pic.maizuo.com/usr/100003601/9c53f31bbb9690662c815ca0265f1c1e.jpg",
+                    "thumbnail": "https://pic.maizuo.com/usr/100003601/9c53f31bbb9690662c815ca0265f1c1e.jpg!150x0"
+                },
+                "intro": "人类新大陆 金刚快跑路",
+                "premiereAt": 1490284800000,
+                "grade": "8.4",
+                "watchCount": 800099,
+                "cinemaCount": 125,
+                "scheduleCount": 4022,
+                "isPromotion": true,
+                "isNowPlaying": true,
+                "isComingSoon": "",
+                "isPresold": ""
+            },
+            {
+                "id": 1913,
+                "name": "美女与野兽",
+                "cover": {
+                    "origin": "https://pic.maizuo.com/usr/100001913/239c598811157b6ad72760f3688de6f6.jpg"
+                },
+                "poster": {
+                    "origin": "https://pic.maizuo.com/usr/100001913/6c74f01059d24cce981478a393351c59.jpg",
+                    "thumbnail": "https://pic.maizuo.com/usr/100001913/6c74f01059d24cce981478a393351c59.jpg!150x0"
+                },
+                "intro": "童话永经典 公主美流传",
+                "premiereAt": 1489680000000,
+                "grade": "8.4",
+                "watchCount": 920611,
+                "cinemaCount": 123,
+                "scheduleCount": 1682,
+                "isPromotion": true,
+                "isNowPlaying": true,
+                "isComingSoon": "",
+                "isPresold": ""
+            },
+            {
+                "id": 3378,
+                "name": "嫌疑人X的献身",
+                "cover": {
+                    "origin": "https://pic.maizuo.com/usr/movie/c2d6768dcd4f2c35f8be66805bb20396.jpg"
+                },
+                "poster": {
+                    "origin": "https://pic.maizuo.com/usr/movie/83fe91fad3e5456330fb71cdf2ab13af.jpg",
+                    "thumbnail": "https://pic.maizuo.com/usr/movie/83fe91fad3e5456330fb71cdf2ab13af.jpg!150x0"
+                },
+                "intro": "天才谋杀案 诡计造谜团",
+                "premiereAt": 1490889600000,
+                "grade": "8.5",
+                "watchCount": 7127,
+                "cinemaCount": 98,
+                "scheduleCount": 1159,
+                "isPromotion": true,
+                "isNowPlaying": true,
+                "isComingSoon": "",
+                "isPresold": ""
+            },
+            {
+                "id": 3584,
+                "name": "一条狗的使命",
+                "cover": {
+                    "origin": "https://pic.maizuo.com/usr/100003584/9899d559660b52d7b9377929399d0dc4.jpg"
+                },
+                "poster": {
+                    "origin": "https://pic.maizuo.com/usr/100003584/d06fedc4e100b00bc0c1aef4c45a8d4a.jpg",
+                    "thumbnail": "https://pic.maizuo.com/usr/100003584/d06fedc4e100b00bc0c1aef4c45a8d4a.jpg!150x0"
+                },
+                "intro": "狗狗爱主人 重生不离分",
+                "premiereAt": 1488470400000,
+                "grade": "8.5",
+                "watchCount": 1019586,
+                "cinemaCount": 119,
+                "scheduleCount": 915,
+                "isPromotion": true,
+                "isNowPlaying": true,
+                "isComingSoon": "",
+                "isPresold": ""
+            },
+            {
+                "id": 3581,
+                "name": "八月",
+                "cover": {
+                    "origin": "https://pic.maizuo.com/usr/100003581/02ec876c3e0c1910c3fd636dc534cd39.jpg"
+                },
+                "poster": {
+                    "origin": "https://pic.maizuo.com/usr/movie/ede0f050c7c88e3c2c310f55b89f859d.jpg",
+                    "thumbnail": "https://pic.maizuo.com/usr/movie/ede0f050c7c88e3c2c310f55b89f859d.jpg!150x0"
+                },
+                "intro": "徒然度炎夏 生活却变化",
+                "premiereAt": 1490284800000,
+                "grade": "7.6",
+                "watchCount": 7947,
+                "cinemaCount": 77,
+                "scheduleCount": 306,
+                "isPromotion": true,
+                "isNowPlaying": true,
+                "isComingSoon": "",
+                "isPresold": ""
+            }
+        ],
+        "page": {
+            "total": 8,
+            "current": 1
+        },
+         "billboards": [
+            {
+                "id": 631,
+                "name": "张惠妹世界巡回演唱会",
+                "url": "http://aura.maizuo.com/?showwxpaytitle=1&from=groupmessage&isappinstalled=1#/item/1326?_k=ywbsuy",
+                "imageUrl": "https://pic.maizuo.com/h5PicUpload/45fba01e5e045f7852f65f579f5a0a66.png",
+                "weight": 0
+            },
+            {
+                "id": 632,
+                "name": "年度最佳金刚先生",
+                "url": "http://m.maizuo.com/act/active/1105",
+                "imageUrl": "https://pic.maizuo.com/h5PicUpload/52921d5abdf9b4a132e83d5e0dab4281.jpg",
+                "weight": 1
+            },
+            {
+                "id": 637,
+                "name": "嫌疑人X的献身",
+                "url": "http://m.maizuo.com/v4/?co=maizuo#!/film/3378",
+                "imageUrl": "https://pic.maizuo.com/h5PicUpload/cdb58aa79cf5805abd747a3dee3b28df.jpg",
+                "weight": 4
+            },
+            {
+                "id": 639,
+                "name": "污贱萌全程飙车",
+                "url": "http://cps.maizuo.com/changeUrl.htm?channelId=372&urlId=1421",
+                "imageUrl": "https://pic.maizuo.com/h5PicUpload/424944523df7b1e08f213b51db26d376.jpg",
+                "weight": 9
+            }
+        ]
+    },
+    "msg": "ok"
+}
